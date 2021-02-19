@@ -1,4 +1,17 @@
-![Captura](https://mathewsachin.github.io/Captura/assets/Banner.png)
+
+
+
+截屏
+捕获视频(Avi / Gif / Mp4)
+带/不带鼠标光标的捕获
+捕获特定的区域、屏幕或窗口
+捕捉鼠标点击或按键
+混合音频记录从麦克风和扬声器输出
+从摄像头捕捉。
+可以从命令行(BETA)使用。
+支持多种语言
+可配置的快捷键![Captura](https://mathewsachin.github.io/Captura/assets/Banner.png)
+
 
 [![Master Build Status](https://img.shields.io/appveyor/ci/MathewSachin/Captura/master.svg?style=flat-square&logo=appveyor)](https://ci.appveyor.com/project/MathewSachin/Captura)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
